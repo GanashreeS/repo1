@@ -1,6 +1,6 @@
 #!\bin\bash
-echo "enter the two number"
+echo "Enter the two numbers"
 read a
 read b
 sum=`expr $a + $b`
-echo "the sum is $sum"
+echo "The sum is $sum"
